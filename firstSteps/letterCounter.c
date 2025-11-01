@@ -13,3 +13,4 @@ int main(void) {
         printf("LETTER COUNT = %i\n", count);
     }
 }
+
